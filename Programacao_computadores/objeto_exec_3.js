@@ -1,4 +1,5 @@
 function funcao(){
+    
     var vet = [];
     var i;
     var item1 = 0;
